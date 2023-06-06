@@ -25,7 +25,7 @@ class CreditReport {
       
       System.out.println("Please input your Experian Credit Score: ");
       creditScoreOne = input.nextInt();
-      while (creditScoreOne < 0 || creditScoreOne > 850){
+      if (creditScoreOne < 0 || creditScoreOne > 850){
          System.out.println("Error, please enter a number between 0 and 850.");
          System.out.println("Please input your Experian Credit Score: ");
          creditScoreOne = input.nextInt();
@@ -34,7 +34,7 @@ class CreditReport {
       
       System.out.println("Please input your TransUnion Credit Score: ");
       creditScoreTwo = input.nextInt();
-      while (creditScoreTwo < 0 || creditScoreTwo > 850){
+      if (creditScoreTwo < 0 || creditScoreTwo > 850){
          System.out.println("Error, please enter a number between 0 and 850.");
          System.out.println("Please input your TransUnion Credit Score: ");
          creditScoreTwo = input.nextInt();
@@ -44,7 +44,7 @@ class CreditReport {
       
       System.out.println("Please input your Equifax Credit Score: ");
       creditScoreThree = input.nextInt();
-      while (creditScoreThree < 0 || creditScoreThree > 850){
+      if (creditScoreThree < 0 || creditScoreThree > 850){
          System.out.println("Error, please enter a number between 0 and 850.");
          System.out.println("Please input your Equifax Credit Score: ");
          creditScoreThree = input.nextInt();
