@@ -18,7 +18,7 @@ input day number of current day */
 
 /*Receiving input from user to input the day number of current day and 
 duration till the first payment due*/
-
+   System.out.print("Congratulations on your approval for your mortgage!");
    System.out.print("Please enter the day number in a week for today.");
    System.out.print("(Make sure you enter 0 for Sunday, 1 for Monday, 2 for Tuesday,... and 6 for Saturday.):");
    dayNumber= input.nextInt();
