@@ -10,3 +10,5 @@
 Please don't forget the pseudocode
 Name your file with your initials: e.g. RA_additionForLoop.java
 Place your .java files in correct HW2 folder
+
+Please rename and place your HW1 in correct folder, once all changes are pushed to your branch, please create a pull request from your branch to master, so I can review/comment/approve/merge your code to master:)
