@@ -5,9 +5,9 @@ This is due next Wed evening:)
 
 2. Use Do While loop, to create 10 random addition quiz questions as described above
 
-3. Use Do While loop, to create 10 random addition quiz questions as described above
+3. Use While loop, to create 10 random addition quiz questions as described above
 
-4. Use Do While loop, to create 10 random addition quiz questions as described above
+4. Use For loop, to create 10 random addition quiz questions as described above
 
 
 Please don't forget the pseudocode
