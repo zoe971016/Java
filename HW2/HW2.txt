@@ -1,0 +1,12 @@
+1. This program should randomly generates two single-digit integers  number1 and number2 and displays a question such as  What is 7 + 9? to the student. After the student types  the answer, the program displays a message to indicate  whether the answer is true or false. 
+
+2. Use Do While loop, to create 10 random addition quiz questions as described above
+
+3. Use Do While loop, to create 10 random addition quiz questions as described above
+
+4. Use Do While loop, to create 10 random addition quiz questions as described above
+
+
+Please don't forget the pseudocode
+Name your file with your initials: e.g. RA_additionForLoop.java
+Place your .java files in correct HW2 folder
