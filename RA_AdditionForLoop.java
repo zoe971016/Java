@@ -63,3 +63,47 @@ class RA_AdditionForLoop {
 
 
 }
+/*
+Pseudocode 
+
+Call Random class 
+Call Scanner class
+
+declare Scanner variable 
+declare Random variable 
+
+create int variable for random1
+create int variable for random 2 
+create boolean answer for user input 
+intilize count variable to hold number of questions 
+initialize right variable to hold number of correct answers 
+initiliaze wrong variable to hold number of incorrect answers
+
+
+initialiint ze string variable for question 
+use scanner variable answer to take user input 
+post incremental count++ 
+if answer is True 
+	post incremental increase right++
+else 
+	post incremental increase wrong++ 
+
+FOR LOOP 
+
+for (int i = 0; i < 11, i++ ){
+	Print variable to run question
+	
+	}
+
+WHILE LOOP 
+int i = 0; 
+
+while (i < 11) 
+	Print variable to run question 
+
+DO WHILE LOOP 
+int i = 0; 
+do 
+	print variable to run question
+while i < 11; 
+*/
