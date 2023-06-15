@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CreditReport {
+class RA_CreditReport {
    
  
    

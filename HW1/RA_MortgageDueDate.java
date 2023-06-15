@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Dictate class name MortgageDueDay 
 // Source code file name MortgageDueDay 
-class MortgageDueDate {
+class RA_MortgageDueDate {
    
    public static void main(String[] args) {
    
