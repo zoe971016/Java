@@ -19,7 +19,6 @@ class RA_AdditionForLoop {
      
      
       
-        for (int i = 0; i < 10; i++) {
 
          int randomNum1 = rand.nextInt(10);
          int randomNum2 = rand.nextInt(10);
