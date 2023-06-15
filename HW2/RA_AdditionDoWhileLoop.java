@@ -62,9 +62,9 @@ class RA_AdditionDoWhileLoop {
          
       
       
-      i++; 
       
-      } while ( i < 10 ) ;
+      
+      } while ( count < 10 ) ;
      
             
      

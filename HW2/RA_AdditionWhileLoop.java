@@ -21,9 +21,9 @@ class RA_AdditionWhileLoop {
    
    // Initilialize int for while loop and run while loop
    
-   int i = 0; 
    
-   while(i < 10){
+   
+   while(count < 10){
    
       int randomOne;
       int randomTwo; 
@@ -54,7 +54,7 @@ class RA_AdditionWhileLoop {
          System.err.println("Incorrect!");
          wrong++;
        
-      } i++; 
+      }  
    
    
    
